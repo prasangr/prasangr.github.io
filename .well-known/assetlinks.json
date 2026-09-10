@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.prasangr.nourishmebro",
+      "sha256_cert_fingerprints": [
+        "49:42:2C:0F:65:F1:22:D8:A0:F1:20:13:A5:13:2E:19:53:C5:A4:B2:11:65:AF:F8:EB:02:0F:53:E1:A1:F6:9D"
+      ]
+    }
+  }
+]
